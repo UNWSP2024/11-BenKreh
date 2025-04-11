@@ -1,3 +1,7 @@
+#ben Krehbiel
+#4/11/2025
+#tkinter say what
+
 import tkinter
 from tkinter import *
 
